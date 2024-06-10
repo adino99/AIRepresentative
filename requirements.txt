@@ -1,0 +1,10 @@
+langchain==0.2.1
+langchain-community
+langchain-core
+langchain-openai
+Django==5.0.6
+line-bot-sdk
+openai
+requests
+django-import-export
+bs4
