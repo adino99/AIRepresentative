@@ -1,0 +1,379 @@
+id,purpose,title,json,owner
+11,route,National Taiwan University,"{
+  ""University"": ""National Taiwan University"",
+  ""Acronym"": ""NTU"",
+  ""Location"": ""Taipei, Taiwan"",
+  ""Established"": ""1928"",
+  ""Type"": ""Public"",
+  ""President"": ""Kuan Chung-Ming"",
+  ""Campus"": ""Urban, 1,086 acres"",
+  ""Website"": ""https://www.ntu.edu.tw/"",
+  ""AcademicPrograms"": {
+    ""Undergraduate"": ""Yes"",
+    ""Graduate"": ""Yes"",
+    ""Doctoral"": ""Yes"",
+    ""InternationalPrograms"": ""Yes""
+  },
+  ""NotableAlumni"": [
+    {
+      ""Name"": ""Yuan T. Lee"",
+      ""Achievement"": ""Nobel Prize in Chemistry (1986)""
+    },
+    {
+      ""Name"": ""Ang Lee"",
+      ""Achievement"": ""Academy Award-winning film director""
+    }
+  ],
+  ""Rankings"": {
+    ""QS World University Rankings 2023"": ""72"",
+    ""Times Higher Education World University Rankings 2023"": ""97""
+  }
+}",NTU
+10,filter,ARC,"{
+  ""Taiwan ARC (Alien Resident Certificate)"": {
+    ""Eligibility"": {
+      ""Criteria"": [
+        ""Foreign nationals staying in Taiwan for more than 180 days"",
+        ""Foreign students, workers, and family members""
+      ]
+    },
+    ""Application Process"": {
+      ""Steps"": [
+        ""Collect required documents"",
+        ""Submit application at the local National Immigration Agency (NIA) office"",
+        ""Biometrics collection""
+      ],
+      ""Required Documents"": [
+        ""Completed application form"",
+        ""Valid passport and resident visa"",
+        ""One color photo"",
+        ""Health examination report (if applicable)"",
+        ""Proof of residence (lease agreement or housing certificate)"",
+        ""Evidence of purpose of residence (e.g., enrollment certificate, employment contract)""
+      ],
+      ""Processing Time"": ""10 working days""
+    },
+    ""Benefits"": [
+      ""Legal residence in Taiwan"",
+      ""Eligibility for National Health Insurance after 6 months"",
+      ""Ability to open bank accounts and sign leases""
+    ],
+    ""Renewal"": {
+      ""Frequency"": ""Annually or biannually, depending on visa type"",
+      ""Process"": [
+        ""Submit renewal application before current ARC expires"",
+        ""Update any changed personal details"",
+        ""Pay the renewal fee""
+      ]
+    },
+    ""Lost or Stolen ARC"": {
+      ""Steps"": [
+        ""Report to the nearest police station"",
+        ""Apply for a replacement at NIA"",
+        ""Submit a declaration of loss and other required documents""
+      ]
+    }
+  }
+}",-
+9,filter,Transportation from Taoyuan Airport to Academia Sinica,"{
+  ""Transportation from Taoyuan Airport to Academia Sinica"": [
+    {
+      ""Option"": ""Private Transfer"",
+      ""Cost"": ""NT$1,000~1,900"",
+      ""Duration"": ""1hr""
+    },
+    {
+      ""Option"": ""Public Transportation + Private Transfer"",
+      ""Steps"": [
+        ""Intercity Bus to Nanagang Exhibition Center"",
+        ""Taxi from Nanagang Exhibition Center to Academia Sinica""
+      ],
+      ""Cost"": ""NT$258~298"",
+      ""Duration"": ""1hr 30mins""
+    },
+    {
+      ""Option"": ""Public Transportation"",
+      ""Steps"": [
+        ""Intercity Bus to Nanagang Exhibition Center"",
+        ""City Bus to Academia Sinica""
+      ],
+      ""Cost"": ""NT$173"",
+      ""Duration"": ""1hr 40mins~2hrs""
+    }
+  ]
+}",-
+8,filter,After Landing in Taiwan,"{
+  ""After Landing in Taiwan"": {
+    ""Required Actions"": [
+      {
+        ""Action"": ""Apply for Alien Resident Certificate (ARC)"",
+        ""Where"": ""National Immigration Agency"",
+        ""When"": ""Within 30 days of entering Taiwan"",
+        ""Documents"": [
+          ""Photo"",
+          ""Passport"",
+          ""Resident Visa"",
+          ""Proof of Accommodation"",
+          ""Certificate of Enrollment or Student ID"",
+          ""Supporting Documents (Refer to Instruction Manual)""
+        ]
+      },
+      {
+        ""Action"": ""Open a Post Office Account""
+      },
+      {
+        ""Action"": ""Online Course Selection""
+      },
+      {
+        ""Action"": ""Physical Registration (if required by selected university)""
+      },
+      {
+        ""Action"": ""Pay Tuition and ARC Fee"",
+        ""Where"": ""Convenience Store""
+      },
+      {
+        ""Action"": ""Health Checkup"",
+        ""Where"": ""Designated Taiwan Hospital by the University""
+      }
+    ]
+  }
+}",-
+7,filter,Apply for a Student Visa,"{
+  ""Visa Application Process"": {
+    ""Flow"": [
+      ""Submit visa application to Taiwan overseas missions"",
+      ""Consular officer examines the application and may request an interview"",
+      {
+        ""Outcome"": [
+          ""Issue Visa"",
+          ""Reject Visa""
+        ]
+      },
+      {
+        ""Further Review"": [
+          ""Cases requiring further review are sent to BOCA for examination""
+        ]
+      },
+      ""Enter Taiwan with resident visa"",
+      ""Apply for ARC and re-entry permit at National Immigration Agency (NIA)""
+    ],
+    ""ARC Extension"": ""Request at NIA to extend the validity before expiration""
+  },
+  ""Visa Types"": [
+    {
+      ""Type"": ""Resident (>180 days)"",
+      ""Applicable to"": ""Most TIGP students""
+    },
+    {
+      ""Type"": ""Visitor (≤180 days)"",
+      ""Note"": ""Must switch to a resident visa once requirements are met""
+    }
+  ]
+}",-
+6,filter,Academic Documents Attestation/Authentication  json,"{
+  ""Document Attestation and Visa Application"": {
+    ""Steps"": [
+      {
+        ""Part 1"": [
+          ""Complete online attestation for higher education qualification certificate at CHSI or ChinaDegrees"",
+          ""Attest/authenticate academic documents in the country where they were obtained"",
+          ""Check with Taiwanese Missions about courier delivery of document attestation""
+        ]
+      },
+      {
+        ""Part 2 (time-consuming)"": [
+          ""Follow SEF guidelines for notarizing higher education qualification certificate, master’s degree, and transcript"",
+          ""Notary office sends a copy of the notarial certificate to the provincial notary association, which forwards it to SEF, Taiwan"",
+          ""Send original hard copy of the notarial certificate to TIGP program secretary for verification""
+        ]
+      },
+      {
+        ""Final Steps"": [
+          ""Submit authenticated academic documents and apply for a student visa at a Taiwanese Mission in the current country of residence""
+        ]
+      }
+    ],
+    ""Timeframe"": ""Normally takes 1 month after notarization, expedited service available for a fee"",
+    ""Missions Locations"": [
+      ""Where you obtained academic documents"",
+      ""Current country of residence""
+    ]
+  }
+}",-
+5,filter,Taiwan International Graduate Program (TIGP),"{
+  ""Program"": ""Taiwan International Graduate Program (TIGP)"",
+  ""Description"": ""A collaborative initiative involving Academia Sinica and leading Taiwanese universities to offer research-oriented graduate degrees in a variety of scientific disciplines."",
+  ""Key Features"": {
+    ""Fellowship"": {
+      ""Description"": ""Full fellowship for up to three years through Academia Sinica, followed by financial support from the thesis advisor."",
+      ""Monthly Stipend"": ""NT$34,000"",
+      ""Currency"": ""NTD (New Taiwan Dollar)"",
+      ""Equivalent in USD"": ""Approximately USD 1,130""
+    },
+    ""Tuition Fees"": {
+      ""Payment Timing"": ""Due upon registration each semester"",
+      ""Variability"": ""Tuition amounts vary among partner universities""
+    },
+    ""Advisor Requirement"": {
+      ""Initial Requirement"": ""Not compulsory to have an advisor in advance for most programs"",
+      ""Selection Deadline"": ""Before the end of the first year of study""
+    },
+    ""Application Details"": {
+      ""Application Period"": ""November to February each year"",
+      ""Entry Semester"": ""Fall"",
+      ""Fee"": ""No application fee required""
+    },
+    ""Eligibility"": {
+      ""Degrees Required"": ""Bachelor's (BS) and/or Master's (MS) degree"",
+      ""Undergraduate Application Option"": ""Available for fourth-year students who will soon graduate""
+    },
+    ""Program Differences"": {
+      ""Criteria Variation"": ""Admission criteria, including standardized tests and other requirements, vary by program.""
+    },
+    ""Research Experience"": {
+      ""Requirement"": ""No set requirement"",
+      ""Benefit"": ""Demonstrated research experience may strengthen the application.""
+    },
+    ""English Proficiency"": {
+      ""Exemption Policy"": ""Possible exemption for graduates from English-speaking institutions, subject to program's discretion""
+    }
+  },
+  ""Affiliates"": {
+    ""Academia Sinica"": ""Primary institution involved"",
+    ""Partner Universities"": ""Includes multiple leading universities in Taiwan""
+  }
+}",-
+4,route,Application Procedure for International Students,"{
+  ""Node"": ""Application Procedure for International Students"",
+  ""Description"": ""Detailed steps and requirements for international students applying to NTU."",
+  ""Steps"": [
+    {
+      ""Step"": 1,
+      ""Description"": ""Create an account"",
+      ""Details"": ""Applicants must create an account in the online application system using a valid email address."",
+      ""Timeline"": ""Early in application period""
+    },
+    {
+      ""Step"": 2,
+      ""Description"": ""Fill in personal information"",
+      ""Details"": ""Required personal information includes full name, date of birth, nationality, email address, and academic background."",
+      ""Timeline"": ""Following account creation""
+    },
+    {
+      ""Step"": 3,
+      ""Description"": ""Select up to 5 departments"",
+      ""Details"": ""Applicants can apply to up to five departments; selection limits to one if multiple offers are received."",
+      ""Timeline"": ""Before submission deadline""
+    },
+    {
+      ""Step"": 4,
+      ""Description"": ""Recommendation letters"",
+      ""Details"": ""Applicants must submit recommendation letters written in either Mandarin Chinese or English. The number of letters varies by department."",
+      ""Timeline"": ""Midway through the application period""
+    },
+    {
+      ""Step"": 5,
+      ""Description"": ""Upload documents"",
+      ""Details"": ""Documents include academic credentials, transcripts, personal statement, study plan, proof of nationality, photograph, financial statement, and other supporting materials."",
+      ""Timeline"": ""Before the application deadline""
+    },
+    {
+      ""Step"": 6,
+      ""Description"": ""Application fee"",
+      ""Details"": ""Fee varies by the number of departments applied to; payment is non-refundable."",
+      ""Timeline"": ""At the time of application submission""
+    },
+    {
+      ""Step"": 7,
+      ""Description"": ""Examinations and interviews"",
+      ""Details"": ""Some departments may require additional tests or interviews as part of their selection process."",
+      ""Timeline"": ""After application review, before final decision""
+    }
+  ],
+  ""Important Notes"": [
+    {
+      ""Note"": ""Recommendation Letter Process"",
+      ""Description"": ""After entering recommender information, applicants must ensure letters are uploaded by the recommenders before the deadline."",
+      ""Timeline"": ""Ensure completion before the application deadline""
+    },
+    {
+      ""Note"": ""Document Submission"",
+      ""Description"": ""All documents must be submitted as specified in the guidelines before the deadline."",
+      ""Timeline"": ""Complete by the final weeks of the application period""
+    },
+    {
+      ""Note"": ""Final Submission"",
+      ""Description"": ""Check the application for completeness and accuracy before final submission."",
+      ""Timeline"": ""Close to the application deadline""
+    }
+  ],
+  ""Global Attributes"": {
+    ""University"": ""National Taiwan University"",
+    ""Application Via"": ""Online Portal"",
+    ""Information Source"": ""NTU's official admissions guidelines for international students""
+  }
+}",NTU
+3,filter,Before Arriving in Taiwan,"{
+  ""Arrival Process"": {
+    ""Before Arriving in Taiwan"": {
+      ""Visa"": {
+        ""Steps"": [
+          ""Receive Student ID Number"",
+          ""Apply for a Student Resident Visa at Taiwan Overseas Mission"",
+          ""Complete Online Course Selection and Registration with Personal Information""
+        ],
+        ""Document Preparation"": [
+          ""Academic Documents Attestation/Authentication"",
+          ""Health Checkup Form""
+        ],
+        ""Accommodation"": [
+          {
+            ""Type"": ""TIGP Dorm"",
+            ""Options"": [
+              ""Single Room"",
+              ""Family Room (2-year-grade or up Students ONLY)""
+            ]
+          },
+          ""Partner University Accommodation"",
+          ""Off-Campus Apartment""
+        ],
+        ""Tuition Preparation"": {
+          ""Amount"": ""NT$30,000 (~US$950) / Semester""
+        }
+      }
+    }
+  }
+}",-
+2,filter,Student Visa to Taiwan,"{
+  ""Student Visa to Taiwan"": {
+    ""Eligibility"": [
+      ""Must be accepted into a recognized educational institution in Taiwan."",
+      ""Proof of sufficient funds to cover tuition fees and living expenses."",
+      ""Health certificate showing no serious illnesses.""
+    ],
+    ""Required Documents"": [
+      ""Passport with at least six months validity."",
+      ""Completed visa application form."",
+      ""Recent passport-sized photos."",
+      ""Admission notice from the educational institution."",
+      ""Proof of financial support."",
+      ""Health certificate."",
+      ""Academic transcripts and certificates.""
+    ],
+    ""Application Process"": [
+      ""Collect all required documents."",
+      ""Submit the visa application form along with the documents to the nearest Taiwanese embassy or consulate."",
+      ""Pay the visa application fee."",
+      ""Attend an interview, if required."",
+      ""Wait for the visa application to be processed.""
+    ],
+    ""Duration"": [
+      ""Student visas are usually valid for the duration of the study program."",
+      ""Can be extended if the study program extends.""
+    ],
+    ""Conditions"": [
+      ""Students are not permitted to work on a student visa unless they obtain a work permit."",
+      ""Must report to and register with the school within a specified period after arrival in Taiwan.""
+    ]
+  }
+}",

@@ -1,0 +1,8 @@
+id,rule,created_at
+11,"Does the answer to the question is in the 'KNOWLEDGE GRAPH'?
+Answer just Yes or No.
+If the answer is No, just only say 'NO'.
+If the answer is Yes, just only say 'YES'.",2024-06-10 12:12:52
+7,"You cannot use knowledge outside 'KNOWLEDGE GRAPH' and 'KNOWLEDGE BASE'.
+Use 'KNOWLEDGE GRAPH' as your scope.
+Use 'KNOWLEDGE BASE' as your truth value.",2024-06-05 14:56:40
